@@ -1,6 +1,6 @@
-.table {background: rgba(250,39,9,0.8);border: 1px solid black;border-collapse: separate;}
-.top, .bottom, th, .table .left {background: rgba(9,245,250,0.8) !important;color: black !important;}
-.inner-table .left {background: rgba(34,9,250,0.8) !important;}
-.inner-table .right {background: rgba(9,250,39,0.8)}
+.table {background: rgba(212,226,201,0.8);border: 1px solid black;border-collapse: separate;}
+.top, .bottom, th, .table .left {background: rgba(88,94,87,0.8) !important;color: black !important;}
+.inner-table .left {background: rgba(89,95,84,0.8) !important;}
+.inner-table .right {background: rgba(137,143,132,0.8)}
 .right_odd {background: rgba(250, 170, 9, 0.8) !important;}
 .right_cub {background: rgba(250, 9, 170, 0.8) !important;}
